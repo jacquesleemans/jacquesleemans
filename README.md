@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jacquesleemans
-- 👀 I’m interested in Game Development, Unity, NodeJS, C#, APIs, 
-- 🌱 I’m currently learning even more Unity/C#
+- 👀 I’m interested in Game Development, Unity, NodeJS, C#, APIs,
 - 💞️ I’m looking to collaborate on Unity projects.
 - 📫 How to reach me: jacquesleemans.net
 
